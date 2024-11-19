@@ -22,7 +22,7 @@ To use this project, you'll need to install the required dependencies and set up
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/your-username/mistral-cli.git
+   git clone https://github.com/MohamTahaB/mistral_project.git
    cd mistral-cli
    ```
 
